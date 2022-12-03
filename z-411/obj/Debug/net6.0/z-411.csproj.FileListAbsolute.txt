@@ -1,0 +1,15 @@
+C:\GeakBrains\DZ-6\z-411\bin\Debug\net6.0\z-411.exe
+C:\GeakBrains\DZ-6\z-411\bin\Debug\net6.0\z-411.deps.json
+C:\GeakBrains\DZ-6\z-411\bin\Debug\net6.0\z-411.runtimeconfig.json
+C:\GeakBrains\DZ-6\z-411\bin\Debug\net6.0\z-411.dll
+C:\GeakBrains\DZ-6\z-411\bin\Debug\net6.0\z-411.pdb
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.csproj.AssemblyReference.cache
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.AssemblyInfoInputs.cache
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.AssemblyInfo.cs
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.csproj.CoreCompileInputs.cache
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.dll
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\refint\z-411.dll
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.pdb
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\z-411.genruntimeconfig.cache
+C:\GeakBrains\DZ-6\z-411\obj\Debug\net6.0\ref\z-411.dll
